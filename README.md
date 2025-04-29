@@ -1,0 +1,1 @@
+# QD_bandgap-sim_Amrita
